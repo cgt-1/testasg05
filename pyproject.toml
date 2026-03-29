@@ -1,0 +1,6 @@
+[project]
+name = "asg05_spaceship_titanic_pipeline"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["src"]
